@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript, css and python
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 1million followers
-- 📫 Contact me on gemail: harshilgajjar54@gmail.com
+- 📫 Contact me on gmail: harshilgajjar54@gmail.com
 
 <!---
 harshiilllll/harshiilllll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
