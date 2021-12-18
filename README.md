@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshiilllll
 - 👀 I’m interested in javascript, css and python
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 1million followers
+- 🌱 I’m currently learning JSON/AJAX
+- 💞️ I’m looking to collaborate on 1million followers XD
 - 📫 Contact me on gmail: harshilgajjar54@gmail.com
 
 <!---
