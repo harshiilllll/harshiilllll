@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JSON/AJAX
 - 💞️ I’m looking to collaborate on 1million followers XD
 - 📫 Contact me on gmail: harshilgajjar54@gmail.com
-- (New Project) - harshiilllll.github.io/Pong/
+- (New Project) - https://harshiilllll.github.io/Pong/
 
 <!---
 harshiilllll/harshiilllll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
