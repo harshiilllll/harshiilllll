@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @harshiilllll
+### 👋 Hi, I’m @harshiilllll
 
 - 👀 I’m interested in Web developing and Gaming  <img align="right" src="https://media.discordapp.net/attachments/914047870573871134/934318738440880138/mp4_1.gif?width=256&height=256">
 - 🌱 I’m currently learning JSON/AJAX and React
