@@ -29,9 +29,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Harshil Gajjar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="harshiilllll | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="harshiilllll | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.youtube.com/channel/UCLnUcrxNTxjrAAVEzqPLhZw"><img align="left" alt="Harshil Gajjar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href="https://twitter.com/harshiilllll"><img align="left" alt="harshiilllll | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.instagram.com/harshiilllll/"><img align="left" alt="harshiilllll | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
