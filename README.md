@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 <br />
-<br />
 
 ### Languages and Tools:
 
