@@ -1,6 +1,6 @@
 ## Hi there, I'm harshiilllll   👋
 
-<img align="right" src="https://media.discordapp.net/attachments/914047870573871134/934318738440880138/mp4_1.gif?width=356&height=356">
+<img align="right" src="https://media.discordapp.net/attachments/914047870573871134/934318738440880138/mp4_1.gif?width=656&height=656">
 
 - 👀 I’m interested in Web developing and Gaming 
 - 🌱 I’m currently learning JSON/AJAX and React
