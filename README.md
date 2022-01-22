@@ -8,8 +8,7 @@
 - 😉 Also check - https://harshil-chatapp.herokuapp.com/
 
 
-<button onclick="https://www.instagram.com/harshiilllll/" style="border: none; outline:none; background-color:darkcyan; color:white; padding:10px 20px;">Instagram</button>
-
+[Instagram](https://www.instagram.com/harshiilllll/){: .btn}
 <!---
 harshiilllll/harshiilllll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
