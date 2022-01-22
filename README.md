@@ -5,7 +5,7 @@
 - 📫 Contact me on gmail: harshilgajjar54@gmail.com
 - 🔥 (New Project) - https://harshiilllll.github.io/pong2/
 - 😉 Also check - https://harshil-chatapp.herokuapp.com/
-<img src="https://media.tenor.co/videos/ce6e82b04eabca7c4aeb99e83e30ffdb/mp4">
+<img src="https://media.discordapp.net/attachments/914047870573871134/934318738440880138/mp4_1.gif?width=256&height=256">
 
 <!---
 harshiilllll/harshiilllll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
