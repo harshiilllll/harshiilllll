@@ -3,7 +3,7 @@
 <img align="right" src="https://media.discordapp.net/attachments/914047870573871134/934318738440880138/mp4_1.gif?width=556&height=956">
 
 - 👀 I’m interested in Web developing and Gaming 
-- 🌱 I’m currently learning JSON/AJAX and React
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on 1 Million + followers 
 - 📫 Contact me on gmail: harshilgajjar54@gmail.com
 - 🔥 (New Project) - https://harshiilllll.github.io/pong2/
