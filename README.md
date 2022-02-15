@@ -4,11 +4,11 @@
 
 - 👀 I’m interested in Web developing and Gaming 
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on 1 Million + followers 
+- 💞️ Mail me to collaborate 
 - 📫 Contact me on gmail: harshilgajjar54@gmail.com
 - 🔥 (New Project) - https://harshiilllll.github.io/pong2/
 - 😉 Also check  https://harshil-chatapp.herokuapp.com/
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to watch anime and play guitar / drums
 
 <br />
 
