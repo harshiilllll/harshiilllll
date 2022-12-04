@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning React.js
 - 💞️ Mail me to collaborate 
 - 📫 Contact me on gmail: harshilgajjar54@gmail.com
-- 🔥 (New Project) - https://harshiilllll.github.io/pong2/
+- 🔥 (New Project) - https://ytnew-harshil.netlify.app/
 - 😉 Also check  https://harshil-chatapp.herokuapp.com/
-- ⚡ Fun fact: I love to watch anime and play guitar / drums
+- ⚡ Fun fact: I love to watch anime
 
 <br />
 
