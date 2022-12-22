@@ -14,16 +14,16 @@
 
 ### Languages and Tools:
 
-Visual Studio Code
-HTML5
-CSS3
-Sass
-JavaScript
-React
-Node.js
-MongoDB
-Git
-GitHub
+Visual Studio Code ||
+HTML5 ||
+CSS3 ||
+Sass ||
+JavaScript ||
+React ||
+Node.js ||
+MongoDB ||
+Git ||
+GitHub ||
 Terminal
 
 
