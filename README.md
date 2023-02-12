@@ -3,7 +3,7 @@
 <img align="right" src="https://media.discordapp.net/attachments/914047870573871134/934318738440880138/mp4_1.gif?width=556&height=956">
 
 - 👀 I’m interested in Web developing and Gaming 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and Web 3.0
 - 💞️ Mail me to collaborate 
 - 📫 Contact me on gmail: harshilgajjar54@gmail.com
 - 🔥 (New Project) - https://ytnew-harshil.netlify.app/
